@@ -400,3 +400,6 @@
 2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
 2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
 2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
