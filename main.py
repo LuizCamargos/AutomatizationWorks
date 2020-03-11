@@ -1,6 +1,11 @@
 from selenium import webdriver
 import pyautogui
 import time
+from datetime import datetime
+from twilio.rest import Client
+sistemaAntiBug = 0
+
+datetime.now()
 
 
 def reiniciarTV():
@@ -39,31 +44,64 @@ def reiniciarTV():
 
 
 def enviarMensagem():
+    sistemaAntiBug = 0
+    runs = 0
+
+    personNamePosition = ["//*[@id='pane-side']/div[1]/div/div/div[17]/div/div/div[2]/div[1]/div[1]/span/span",
+                          "//*[@id='pane-side']/div[1]/div/div/div[16]/div/div/div[2]/div[1]/div[1]/span/span",
+                          "//*[@id='pane-side']/div[1]/div/div/div[15]/div/div/div[2]/div[1]/div[1]/span/span",
+                          "//*[@id='pane-side']/div[1]/div/div/div[2]/div/div/div[2]/div[1]/div[1]/span/span",
+                          "//*[@id='pane-side']/div[1]/div/div/div[1]/div/div/div[2]/div[1]/div[1]/span/span"]
+    PersonMessagePosition = ["//*[@id='pane-side']/div[1]/div/div/div[17]/div/div/div[2]/div[2]/div[1]/span/span",
+                             "//*[@id='pane-side']/div[1]/div/div/div[16]/div/div/div[2]/div[2]/div[1]/span/span",
+                             "//*[@id='pane-side']/div[1]/div/div/div[15]/div/div/div[2]/div[2]/div[1]/span/span",
+                             "//*[@id='pane-side']/div[1]/div/div/div[2]/div/div/div[2]/div[2]/div[1]/span/span",
+                             "//*[@id='pane-side']/div[1]/div/div/div[1]/div/div/div[2]/div[2]/div[1]/span/span"]
+
     driver = webdriver.Chrome()
     driver.get('http://web.whatsapp.com')
 
-    name = "PAIZAO"
-    msg = "TV Reiniciada com sucesso! \n Caso Contrario envie outra mensagem com outro Texto que o Luiz irá ler :D"
+    msg = "Bomba Lancada com Sucesso! \n Caso voce continue vivo porfavor faca novamente ;D"
     input('Enter anything after scanning QR code')
 
-    while True:
-        src = driver.page_source
-        if ("AUTODESTRUICAO NA TV!" in src):
-            print("/n/n Executar AUTODESTRUICAO!")
-            user = driver.find_element_by_xpath(
-                '//span[@title = "{}"]'.format(name))
-            user.click()
-            msg_box = driver.find_element_by_xpath(
-                "//*[@id='main']/footer/div[1]/div[2]/div/div[2]")
-            msg_box.send_keys(msg)
-            button = driver.find_element_by_xpath(
-                "//*[@id='main']/footer/div[1]/div[3]/button/span")
-            button.click()
-       else:
-            with open("relatorio.html", "w", encoding="utf-8") as f:
-                f.write(src)
-                f.close()
-        time.sleep(180)
+    while sistemaAntiBug < 3:
+        for i in range(5):
+            try:
+                user = driver.find_element_by_xpath(
+                    personNamePosition[i])
+                texto = driver.find_element_by_xpath(
+                    PersonMessagePosition[i])
+                if "AUTODESTRUICAO" in texto.text:
+                    print("A pessoa e: "+user.text+"\t"+texto.text)
+                    print("/n/n Executar AUTODESTRUICAO!")
+                    # reiniciarTV()
+                    user = driver.find_element_by_xpath(
+                        '//span[@title = "{}"]'.format(user.text))
+                    user.click()
+                    msg_box = driver.find_element_by_xpath(
+                        "//*[@id='main']/footer/div[1]/div[2]/div/div[2]")
+                    msg_box.send_keys(msg)
+                    button = driver.find_element_by_xpath(
+                        "//*[@id='main']/footer/div[1]/div[3]/button/span")
+                    button.click()
+                    sistemaAntiBug += 1
+                elif "QUERO DERRUBAR O LAB 1" in texto.text and user.text == "Odair Unisal":
+                    print("Derrubando Laboratoirio 1")
+                elif "QUERO DERRUBAR O LAB 2" in texto.text and user.text == "Odair Unisal":
+                    print("Derrubando Laboratoirio 2")
+                data = str(datetime.now())
+                with open("relatorio.txt", "a", encoding="utf-8") as f:
+                    for i in range(3):
+                        f.write(data+"\t"+user.text+"\t"+texto.text+"\n")
+                    f.close()
+                runs += 1
+                if runs % 5 == 0:
+                    sistemaAntiBug = 0
+                print("AntiBug:"+str(sistemaAntiBug))
+            except:
+                pass
+            finally:
+                time.sleep(20)
 
 
 enviarMensagem()

@@ -1,0 +1,402 @@
+2020-03-11 12:34:03.859379	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:34:03.859379	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:34:03.859379	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:34:58.207065	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:34:58.207065	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:34:58.207065	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:35:08.352380	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:08.352380	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:08.352380	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:18.466493	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:35:18.466493	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:35:18.466493	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:35:28.566107	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:28.566107	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:28.566107	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:49.152701	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:35:49.152701	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:35:49.152701	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:35:59.238598	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:59.238598	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:35:59.238598	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:09.333127	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:09.333127	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:09.333127	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:19.422209	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:19.422209	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:19.422209	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:29.512258	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:29.512258	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:29.512258	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:36:39.598232	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:39.598232	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:39.598232	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:49.724832	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:36:49.724832	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:36:49.724832	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:36:59.822465	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:59.822465	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:36:59.822465	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:37:09.929295	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:09.929295	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:09.929295	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:20.014133	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:37:20.014133	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:37:20.014133	Riquelmi	Tipo, a pessoa digita "Desligar laboratório 2", então todos os PCs do laboratório 2 vão ser desligados com esse controle de mouse e teclado tlg
+2020-03-11 12:37:30.143459	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:30.143459	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:30.143459	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:40.268640	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:40.268640	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:40.268640	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:50.395393	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:50.395393	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:37:50.395393	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:00.505694	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:00.505694	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:00.505694	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:10.632282	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:10.632282	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:10.632282	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:20.718365	Riquelmi	É o programa some
+2020-03-11 12:38:20.718365	Riquelmi	É o programa some
+2020-03-11 12:38:20.718365	Riquelmi	É o programa some
+2020-03-11 12:38:30.822121	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:30.822121	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:30.822121	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:40.910339	Riquelmi	Ss
+2020-03-11 12:38:40.910339	Riquelmi	Ss
+2020-03-11 12:38:40.910339	Riquelmi	Ss
+2020-03-11 12:38:51.007833	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:51.007833	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:38:51.007833	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:01.090149	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:01.090149	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:01.090149	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:11.196162	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:11.196162	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:11.196162	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:21.274807	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:21.274807	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:21.274807	Riquelmi	Eu fiz isso aqui pq tô assistindo mta série de terroristas tlg
+2020-03-11 12:39:31.367069	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:31.367069	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:31.367069	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:41.462122	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:39:41.462122	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:39:41.462122	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:39:51.571853	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:51.571853	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:39:51.571853	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:01.660708	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:01.660708	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:01.660708	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:11.808270	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:11.808270	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:11.808270	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:21.887565	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:21.887565	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:21.887565	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:31.992639	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:31.992639	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:31.992639	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:42.085524	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:42.085524	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:42.085524	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:40:52.180189	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:52.180189	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:40:52.180189	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:02.268482	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:41:02.268482	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:41:02.268482	Riquelmi	Tipo, eu vi uma que ele envia um SMS e explode uma ogiva dentro de um hospital tlg
+2020-03-11 12:41:12.404243	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:12.404243	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:12.404243	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:22.489901	Riquelmi	Hmmm...entend
+2020-03-11 12:41:22.489901	Riquelmi	Hmmm...entend
+2020-03-11 12:41:22.489901	Riquelmi	Hmmm...entend
+2020-03-11 12:41:32.585949	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:32.585949	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:32.585949	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:42.675038	Riquelmi	As vezes as ideias vem de umas coisas mto loucaskkkkk
+2020-03-11 12:41:42.675038	Riquelmi	As vezes as ideias vem de umas coisas mto loucaskkkkk
+2020-03-11 12:41:42.675038	Riquelmi	As vezes as ideias vem de umas coisas mto loucaskkkkk
+2020-03-11 12:41:52.772785	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:52.772785	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:41:52.772785	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:02.856256	Riquelmi	Ô, como que faz negrito?
+2020-03-11 12:42:02.856256	Riquelmi	Ô, como que faz negrito?
+2020-03-11 12:42:02.856256	Riquelmi	Ô, como que faz negrito?
+2020-03-11 12:42:12.963367	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:12.963367	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:12.963367	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:23.068363	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:23.068363	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:23.068363	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:33.191548	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:33.191548	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:33.191548	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:43.297958	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:43.297958	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:43.297958	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:53.422911	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:53.422911	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:42:53.422911	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:03.532994	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:03.532994	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:03.532994	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:13.626629	Riquelmi	Mandando informações para a placa
+2020-03-11 12:43:13.626629	Riquelmi	Mandando informações para a placa
+2020-03-11 12:43:13.626629	Riquelmi	Mandando informações para a placa
+2020-03-11 12:43:23.744488	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:23.744488	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:23.744488	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:33.829695	Riquelmi	Ohhh mas e referente a empresa
+2020-03-11 12:43:33.829695	Riquelmi	Ohhh mas e referente a empresa
+2020-03-11 12:43:33.829695	Riquelmi	Ohhh mas e referente a empresa
+2020-03-11 12:43:43.926154	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:43.926154	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:43.926154	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:43:54.017249	Riquelmi	Com arduíno??
+2020-03-11 12:43:54.017249	Riquelmi	Com arduíno??
+2020-03-11 12:43:54.017249	Riquelmi	Com arduíno??
+2020-03-11 12:44:04.110633	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:04.110633	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:04.110633	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:14.189045	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:14.189045	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:14.189045	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:24.306176	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:24.306176	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:24.306176	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:34.398937	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:34.398937	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:34.398937	Riquelmi	Vc tá falando sério?
+2020-03-11 12:44:44.511956	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:44.511956	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:44.511956	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:44:54.589369	Riquelmi	Topo
+2020-03-11 12:44:54.589369	Riquelmi	Topo
+2020-03-11 12:44:54.589369	Riquelmi	Topo
+2020-03-11 12:45:04.682831	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:04.682831	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:04.682831	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:14.763214	Riquelmi	Topo
+2020-03-11 12:45:14.763214	Riquelmi	Topo
+2020-03-11 12:45:14.763214	Riquelmi	Topo
+2020-03-11 12:45:24.869366	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:24.869366	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:24.869366	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:34.955320	Riquelmi	Se não lembra?
+2020-03-11 12:45:34.955320	Riquelmi	Se não lembra?
+2020-03-11 12:45:34.955320	Riquelmi	Se não lembra?
+2020-03-11 12:45:45.054590	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:45.054590	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:45.054590	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:55.173032	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:55.173032	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:45:55.173032	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:05.281501	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:05.281501	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:05.281501	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:15.400325	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:15.400325	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:15.400325	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:25.507998	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:25.507998	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:25.507998	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:35.594366	Riquelmi	Tive essa ideia ontem na facul
+2020-03-11 12:46:35.594366	Riquelmi	Tive essa ideia ontem na facul
+2020-03-11 12:46:35.594366	Riquelmi	Tive essa ideia ontem na facul
+2020-03-11 12:46:45.721135	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:45.721135	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:46:45.721135	Teste Twilio	QUERO DERRUBAR O LAB 1
+2020-03-11 12:48:02.770160	Teste Twilio	ass: Athena
+2020-03-11 12:48:02.770160	Teste Twilio	ass: Athena
+2020-03-11 12:48:02.770160	Teste Twilio	ass: Athena
+2020-03-11 12:48:23.227778	Teste Twilio	ass: Athena
+2020-03-11 12:48:23.227778	Teste Twilio	ass: Athena
+2020-03-11 12:48:23.227778	Teste Twilio	ass: Athena
+2020-03-11 12:49:03.719099	Riquelmi	ass: Athena
+2020-03-11 12:49:03.719099	Riquelmi	ass: Athena
+2020-03-11 12:49:03.719099	Riquelmi	ass: Athena
+2020-03-11 12:50:58.757988	Riquelmi	Kkkkkkkk
+2020-03-11 12:50:58.757988	Riquelmi	Kkkkkkkk
+2020-03-11 12:50:58.757988	Riquelmi	Kkkkkkkk
+2020-03-11 12:51:18.858171	Teste Twilio	You said :ass: Athena.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:51:18.858171	Teste Twilio	You said :ass: Athena.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:51:18.858171	Teste Twilio	You said :ass: Athena.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 12:51:58.959851	Riquelmi	eu to testando pra ver se consigo usar o whats enquanto a Athena tenta achar os textos mas ta dificil kkkkk
+2020-03-11 12:51:58.959851	Riquelmi	eu to testando pra ver se consigo usar o whats enquanto a Athena tenta achar os textos mas ta dificil kkkkk
+2020-03-11 12:51:58.959851	Riquelmi	eu to testando pra ver se consigo usar o whats enquanto a Athena tenta achar os textos mas ta dificil kkkkk
+2020-03-11 12:52:19.688802	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:52:19.688802	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:52:19.688802	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:52:59.808208	Riquelmi	Kkkkkkk
+2020-03-11 12:52:59.808208	Riquelmi	Kkkkkkk
+2020-03-11 12:52:59.808208	Riquelmi	Kkkkkkk
+2020-03-11 12:53:20.391093	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:53:20.391093	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:53:20.391093	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:54:00.500804	Riquelmi	Pior que o João Nelso falou tanto disso
+2020-03-11 12:54:00.500804	Riquelmi	Pior que o João Nelso falou tanto disso
+2020-03-11 12:54:00.500804	Riquelmi	Pior que o João Nelso falou tanto disso
+2020-03-11 12:54:20.566716	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:54:20.566716	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:54:20.566716	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:55:00.701770	Riquelmi	Ficou pistola com isso
+2020-03-11 12:55:00.701770	Riquelmi	Ficou pistola com isso
+2020-03-11 12:55:00.701770	Riquelmi	Ficou pistola com isso
+2020-03-11 12:55:20.797563	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:55:20.797563	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:55:20.797563	Teste Twilio	AUTODESTRUICA
+2020-03-11 12:56:00.900329	Riquelmi	Ficou com fulano
+2020-03-11 12:56:00.900329	Riquelmi	Ficou com fulano
+2020-03-11 12:56:00.900329	Riquelmi	Ficou com fulano
+2020-03-11 12:57:56.567967	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:57:56.567967	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:57:56.567967	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:58:36.701336	Riquelmi	Mds kkkkkk
+2020-03-11 12:58:36.701336	Riquelmi	Mds kkkkkk
+2020-03-11 12:58:36.701336	Riquelmi	Mds kkkkkk
+2020-03-11 12:59:07.232798	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:59:07.232798	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:59:07.232798	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 12:59:47.333728	Riquelmi	1- uma arma magnética
+2020-03-11 12:59:47.333728	Riquelmi	1- uma arma magnética
+2020-03-11 12:59:47.333728	Riquelmi	1- uma arma magnética
+2020-03-11 13:00:07.434821	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:00:07.434821	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:00:07.434821	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:00:47.530034	Riquelmi	Mto filme de ficção?
+2020-03-11 13:00:47.530034	Riquelmi	Mto filme de ficção?
+2020-03-11 13:00:47.530034	Riquelmi	Mto filme de ficção?
+2020-03-11 13:01:07.604957	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:01:07.604957	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:01:07.604957	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:01:47.724522	Riquelmi	Mto filme de ficção?
+2020-03-11 13:01:47.724522	Riquelmi	Mto filme de ficção?
+2020-03-11 13:01:47.724522	Riquelmi	Mto filme de ficção?
+2020-03-11 13:03:24.666152	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:03:24.666152	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:03:24.666152	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:03:44.759242	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:03:44.759242	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:03:44.759242	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:04:24.864771	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:04:24.864771	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:04:24.864771	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:04:45.749731	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:04:45.749731	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:04:45.749731	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:05:25.850513	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:05:25.850513	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:05:25.850513	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:05:45.932997	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:05:45.932997	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:05:45.932997	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:06:26.026566	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:06:26.026566	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:06:26.026566	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:06:46.630193	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:06:46.630193	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:06:46.630193	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:07:26.738078	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:07:26.738078	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:07:26.738078	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:07:46.833648	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:07:46.833648	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:07:46.833648	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:08:26.925163	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:08:26.925163	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:08:26.925163	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:08:47.007230	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:08:47.007230	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:08:47.007230	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:09:27.102592	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:09:27.102592	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:09:27.102592	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:09:47.698176	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:09:47.698176	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:09:47.698176	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:10:27.802398	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:10:27.802398	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:10:27.802398	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:10:48.361253	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:10:48.361253	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:10:48.361253	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:11:28.473719	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:11:28.473719	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:11:28.473719	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:11:49.180318	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:11:49.180318	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:11:49.180318	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:12:29.309314	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:12:29.309314	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:12:29.309314	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:12:59.919278	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:12:59.919278	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:12:59.919278	Teste Twilio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:13:40.011939	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:13:40.011939	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:13:40.011939	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:14:00.104563	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:14:00.104563	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:14:00.104563	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:14:40.226743	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:14:40.226743	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:14:40.226743	Riquelmi	Man, eu tava discutindo com um professor da pós graduação em eletro e ele disse que é possível sim
+2020-03-11 13:15:00.342822	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:15:00.342822	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:15:00.342822	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:15:40.442466	Riquelmi	Como fazer
+2020-03-11 13:15:40.442466	Riquelmi	Como fazer
+2020-03-11 13:15:40.442466	Riquelmi	Como fazer
+2020-03-11 13:16:00.513099	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:16:00.513099	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:16:00.513099	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:16:40.678494	Riquelmi	Como fazer
+2020-03-11 13:16:40.678494	Riquelmi	Como fazer
+2020-03-11 13:16:40.678494	Riquelmi	Como fazer
+2020-03-11 13:17:00.850602	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:17:00.850602	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:17:00.850602	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:17:41.020810	Riquelmi	Como fazer
+2020-03-11 13:17:41.020810	Riquelmi	Como fazer
+2020-03-11 13:17:41.020810	Riquelmi	Como fazer
+2020-03-11 13:18:01.147364	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:18:01.147364	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:18:01.147364	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:18:41.310601	Riquelmi	Como fazer
+2020-03-11 13:18:41.310601	Riquelmi	Como fazer
+2020-03-11 13:18:41.310601	Riquelmi	Como fazer
+2020-03-11 13:19:01.501621	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:19:01.501621	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:19:01.501621	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:19:41.651984	Riquelmi	Como fazer
+2020-03-11 13:19:41.651984	Riquelmi	Como fazer
+2020-03-11 13:19:41.651984	Riquelmi	Como fazer
+2020-03-11 13:20:01.801742	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:20:01.801742	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:20:01.801742	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:20:41.983272	Riquelmi	Como fazer
+2020-03-11 13:20:41.983272	Riquelmi	Como fazer
+2020-03-11 13:20:41.983272	Riquelmi	Como fazer
+2020-03-11 13:21:20.760306	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:21:20.760306	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:21:20.760306	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:21:40.881830	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:21:40.881830	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:21:40.881830	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:22:00.997854	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:22:00.997854	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:22:00.997854	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 13:22:21.095086	Odair Unisal	Oda, aqui está sem a chave da sala 5
+2020-03-11 13:22:21.095086	Odair Unisal	Oda, aqui está sem a chave da sala 5
+2020-03-11 13:22:21.095086	Odair Unisal	Oda, aqui está sem a chave da sala 5
+2020-03-11 13:23:01.232249	Riquelmi	Como fazer
+2020-03-11 13:23:01.232249	Riquelmi	Como fazer
+2020-03-11 13:23:01.232249	Riquelmi	Como fazer
+2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 13:23:21.325144	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
