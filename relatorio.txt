@@ -403,3 +403,1027 @@
 2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
 2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
 2020-03-11 13:23:41.421491	Teste Twilio	You said :Caso voce continue vivo porfavor faca novamente ;D.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 17:37:45.917740	Paizão	Ok
+2020-03-11 17:38:06.042445	Diego Unisal	
+2020-03-11 17:40:06.280472	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 17:40:46.431040	Thiago	Esse programa aí faz oq?
+2020-03-11 17:41:06.540272	Naty Unisal	Ok
+2020-03-11 17:41:26.627957	Riquelmi	Saí
+2020-03-11 17:41:46.717857	Odair Unisal	Som da sala 11?
+2020-03-11 17:42:06.802446	+55 12 99145-1015	O que teve na prova?
+2020-03-11 17:42:37.333041	Teste Twilio	TV reiniciada com sucesso! ass: Athena
+2020-03-11 17:44:37.598599	Paizão	Ok
+2020-03-11 17:44:57.687940	Diego Unisal	
+2020-03-11 17:46:57.996102	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 17:47:38.133186	Thiago	Esse programa aí faz oq?
+2020-03-11 17:47:58.268354	Naty Unisal	Ok
+2020-03-11 17:48:18.387970	Riquelmi	Saí
+2020-03-11 17:48:38.488925	Odair Unisal	Som da sala 11?
+2020-03-11 17:48:58.569639	+55 12 99145-1015	O que teve na prova?
+2020-03-11 17:49:18.698264	Teste Twilio	You said :TV reiniciada com sucesso! ass: Athena.  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 17:58:43.431826	Paizão	Ok
+2020-03-11 17:59:03.545650	Diego Unisal	
+2020-03-11 18:01:03.791227	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:01:43.922938	Thiago	Esse programa aí faz oq?
+2020-03-11 18:02:04.045513	Naty Unisal	Ok
+2020-03-11 18:02:24.169700	Riquelmi	Saí
+2020-03-11 18:02:44.302999	Odair Unisal	Som da sala 11?
+2020-03-11 18:03:04.436155	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:03:24.571222	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:05:24.852668	Paizão	Ok
+2020-03-11 18:05:45.015537	Diego Unisal	
+2020-03-11 18:07:45.250879	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:13.941020	Diego Unisal	
+2020-03-11 18:09:14.063419	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:14.182725	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:14.248730	Naty Unisal	Ok
+2020-03-11 18:09:14.326858	Riquelmi	Saí
+2020-03-11 18:09:14.395881	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:14.464890	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:14.549519	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:48.459456	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:48.617533	Diego Unisal	
+2020-03-11 18:09:48.766107	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:48.849241	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:48.933874	Naty Unisal	Ok
+2020-03-11 18:09:49.029769	Riquelmi	Saí
+2020-03-11 18:09:49.093402	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:49.181540	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:49.250547	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:49.319558	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:49.451006	Diego Unisal	
+2020-03-11 18:09:49.551264	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:49.620268	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:49.682772	Naty Unisal	Ok
+2020-03-11 18:09:49.736159	Riquelmi	Saí
+2020-03-11 18:09:49.783033	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:49.836418	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:49.898916	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:49.971568	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:50.068195	Diego Unisal	
+2020-03-11 18:09:50.168455	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:50.271401	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:50.362344	Naty Unisal	Ok
+2020-03-11 18:09:50.418310	Riquelmi	Saí
+2020-03-11 18:09:50.474275	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:50.529241	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:50.582209	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:50.653164	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:50.758100	Diego Unisal	
+2020-03-11 18:09:50.845046	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:50.902011	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:50.949981	Naty Unisal	Ok
+2020-03-11 18:09:51.002949	Riquelmi	Saí
+2020-03-11 18:09:51.057959	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:51.109926	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:51.164892	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:51.217859	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:51.328793	Diego Unisal	
+2020-03-11 18:09:51.419735	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:51.479732	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:51.534702	Naty Unisal	Ok
+2020-03-11 18:09:51.587669	Riquelmi	Saí
+2020-03-11 18:09:51.640636	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:51.695607	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:51.749569	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:51.802536	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:51.900476	Diego Unisal	
+2020-03-11 18:09:51.991420	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:52.060377	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:52.119388	Naty Unisal	Ok
+2020-03-11 18:09:52.171354	Riquelmi	Saí
+2020-03-11 18:09:52.224336	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:52.276516	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:52.328484	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:52.381495	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:52.476437	Diego Unisal	
+2020-03-11 18:09:52.566381	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:52.626376	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:52.681342	Naty Unisal	Ok
+2020-03-11 18:09:52.732311	Riquelmi	Saí
+2020-03-11 18:09:52.785278	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:52.838249	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:52.899208	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:52.964168	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:53.056111	Diego Unisal	
+2020-03-11 18:09:53.154050	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:53.214054	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:53.269183	Naty Unisal	Ok
+2020-03-11 18:09:53.333155	Riquelmi	Saí
+2020-03-11 18:09:53.386113	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:53.439081	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:53.494048	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:53.549013	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:53.638957	Diego Unisal	
+2020-03-11 18:09:53.771876	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:53.829840	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:53.883807	Naty Unisal	Ok
+2020-03-11 18:09:53.942770	Riquelmi	Saí
+2020-03-11 18:09:54.004732	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:54.076689	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:54.134652	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:54.186620	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:54.279669	Diego Unisal	
+2020-03-11 18:09:54.372613	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:54.441570	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:54.504545	Naty Unisal	Ok
+2020-03-11 18:09:54.561510	Riquelmi	Saí
+2020-03-11 18:09:54.615477	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:54.668444	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:54.720452	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:54.772458	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:54.865400	Diego Unisal	
+2020-03-11 18:09:54.955358	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:55.016319	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:55.073288	Naty Unisal	Ok
+2020-03-11 18:09:55.130249	Riquelmi	Saí
+2020-03-11 18:09:55.184215	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:55.248176	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:55.311137	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:55.364104	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:55.464043	Diego Unisal	
+2020-03-11 18:09:55.559012	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:55.619975	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:55.673942	Naty Unisal	Ok
+2020-03-11 18:09:55.726908	Riquelmi	Saí
+2020-03-11 18:09:55.778883	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:55.831843	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:55.884811	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:55.937779	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:56.046712	Diego Unisal	
+2020-03-11 18:09:56.144651	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:56.204613	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:56.258810	Naty Unisal	Ok
+2020-03-11 18:09:56.314776	Riquelmi	Saí
+2020-03-11 18:09:56.367743	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:56.424708	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:56.480674	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:56.534641	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:56.626595	Diego Unisal	
+2020-03-11 18:09:56.717539	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:56.790494	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:56.861492	Naty Unisal	Ok
+2020-03-11 18:09:56.920455	Riquelmi	Saí
+2020-03-11 18:09:56.978420	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:57.031387	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:57.084354	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:57.137321	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:57.229265	Diego Unisal	
+2020-03-11 18:09:57.320367	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:57.379332	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:57.433298	Naty Unisal	Ok
+2020-03-11 18:09:57.485266	Riquelmi	Saí
+2020-03-11 18:09:57.538234	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:57.603193	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:57.659158	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:57.715125	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:57.805068	Diego Unisal	
+2020-03-11 18:09:57.898012	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:57.959974	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:58.017937	Naty Unisal	Ok
+2020-03-11 18:09:58.071904	Riquelmi	Saí
+2020-03-11 18:09:58.122872	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:58.176840	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:58.228812	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:58.282783	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:58.389708	Diego Unisal	
+2020-03-11 18:09:58.477653	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:58.536617	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:58.587585	Naty Unisal	Ok
+2020-03-11 18:09:58.639553	Riquelmi	Saí
+2020-03-11 18:09:58.690523	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:58.743489	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:58.796460	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:58.850423	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:58.940368	Diego Unisal	
+2020-03-11 18:09:59.030363	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:59.089326	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:59.156285	Naty Unisal	Ok
+2020-03-11 18:09:59.211267	Riquelmi	Saí
+2020-03-11 18:09:59.274481	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:59.329436	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:59.382403	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:09:59.434372	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:09:59.526314	Diego Unisal	
+2020-03-11 18:09:59.617258	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:09:59.677220	Thiago	Esse programa aí faz oq?
+2020-03-11 18:09:59.730188	Naty Unisal	Ok
+2020-03-11 18:09:59.783155	Riquelmi	Saí
+2020-03-11 18:09:59.841125	Odair Unisal	Som da sala 11?
+2020-03-11 18:09:59.896085	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:09:59.967042	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:00.027004	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:00.113951	Diego Unisal	
+2020-03-11 18:10:00.236875	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:00.304087	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:00.363050	Naty Unisal	Ok
+2020-03-11 18:10:00.413019	Riquelmi	Saí
+2020-03-11 18:10:00.461989	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:00.511957	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:00.563926	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:00.612896	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:00.733821	Diego Unisal	
+2020-03-11 18:10:00.814772	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:00.883729	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:00.936696	Naty Unisal	Ok
+2020-03-11 18:10:00.987664	Riquelmi	Saí
+2020-03-11 18:10:01.040632	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:01.094599	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:01.145567	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:01.197535	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:01.290477	Diego Unisal	
+2020-03-11 18:10:01.379422	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:01.467368	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:01.528330	Naty Unisal	Ok
+2020-03-11 18:10:01.581298	Riquelmi	Saí
+2020-03-11 18:10:01.641261	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:01.699225	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:01.756190	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:01.813154	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:01.920088	Diego Unisal	
+2020-03-11 18:10:02.013031	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:02.070996	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:02.126965	Naty Unisal	Ok
+2020-03-11 18:10:02.182927	Riquelmi	Saí
+2020-03-11 18:10:02.234894	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:02.294022	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:02.356983	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:02.408951	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:02.497896	Diego Unisal	
+2020-03-11 18:10:02.586841	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:02.650802	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:02.703815	Naty Unisal	Ok
+2020-03-11 18:10:02.757811	Riquelmi	Saí
+2020-03-11 18:10:02.812778	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:02.998716	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:03.054681	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:03.106649	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:03.215581	Diego Unisal	
+2020-03-11 18:10:03.301688	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:03.365647	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:03.418614	Naty Unisal	Ok
+2020-03-11 18:10:03.473615	Riquelmi	Saí
+2020-03-11 18:10:03.528581	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:03.584546	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:03.636514	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:03.691480	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:03.781425	Diego Unisal	
+2020-03-11 18:10:03.871371	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:03.943325	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:03.996291	Naty Unisal	Ok
+2020-03-11 18:10:04.050258	Riquelmi	Saí
+2020-03-11 18:10:04.104225	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:04.156193	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:04.208198	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:04.260165	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:04.352165	Diego Unisal	
+2020-03-11 18:10:04.441104	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:04.501066	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:04.555034	Naty Unisal	Ok
+2020-03-11 18:10:04.609008	Riquelmi	Saí
+2020-03-11 18:10:04.661967	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:04.745916	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:04.808877	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:04.861844	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:04.950789	Diego Unisal	
+2020-03-11 18:10:05.034772	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:05.097734	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:05.151700	Naty Unisal	Ok
+2020-03-11 18:10:05.203667	Riquelmi	Saí
+2020-03-11 18:10:05.258765	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:05.311959	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:05.368924	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:05.423890	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:05.527827	Diego Unisal	
+2020-03-11 18:10:05.618782	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:05.678754	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:05.733723	Naty Unisal	Ok
+2020-03-11 18:10:05.786691	Riquelmi	Saí
+2020-03-11 18:10:05.838688	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:05.893655	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:05.946621	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:05.998621	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:06.089565	Diego Unisal	
+2020-03-11 18:10:06.181508	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:06.241471	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:06.307431	Naty Unisal	Ok
+2020-03-11 18:10:06.366394	Riquelmi	Saí
+2020-03-11 18:10:06.418362	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:06.474327	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:06.529293	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:06.583260	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:06.677203	Diego Unisal	
+2020-03-11 18:10:06.765148	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:06.824111	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:06.883076	Naty Unisal	Ok
+2020-03-11 18:10:06.935081	Riquelmi	Saí
+2020-03-11 18:10:06.987049	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:07.041069	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:07.094037	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:07.158996	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:07.254937	Diego Unisal	
+2020-03-11 18:10:07.341884	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:07.403845	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:07.455813	Naty Unisal	Ok
+2020-03-11 18:10:07.507781	Riquelmi	Saí
+2020-03-11 18:10:07.562747	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:07.615714	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:07.667686	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:07.722648	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:07.817589	Diego Unisal	
+2020-03-11 18:10:07.928539	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:07.987503	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:08.044477	Naty Unisal	Ok
+2020-03-11 18:10:08.097445	Riquelmi	Saí
+2020-03-11 18:10:08.150413	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:08.203380	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:08.257347	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:08.309493	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:08.398438	Diego Unisal	
+2020-03-11 18:10:08.489382	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:08.549345	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:08.602312	Naty Unisal	Ok
+2020-03-11 18:10:08.654279	Riquelmi	Saí
+2020-03-11 18:10:08.706248	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:08.783200	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:08.835169	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:08.886137	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:08.975082	Diego Unisal	
+2020-03-11 18:10:09.066027	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:09.128995	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:09.185953	Naty Unisal	Ok
+2020-03-11 18:10:09.238919	Riquelmi	Saí
+2020-03-11 18:10:09.290887	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:09.348851	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:09.401818	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:09.456785	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:09.549727	Diego Unisal	
+2020-03-11 18:10:09.663740	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:09.723735	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:09.781699	Naty Unisal	Ok
+2020-03-11 18:10:09.840663	Riquelmi	Saí
+2020-03-11 18:10:09.893630	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:09.948597	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:10.004598	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:10.060565	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:10.153507	Diego Unisal	
+2020-03-11 18:10:10.261441	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:10.325582	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:10.377550	Naty Unisal	Ok
+2020-03-11 18:10:10.429518	Riquelmi	Saí
+2020-03-11 18:10:10.485483	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:10.539450	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:10.594416	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:10.646384	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:10.735362	Diego Unisal	
+2020-03-11 18:10:10.825369	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:10.887322	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:10.940289	Naty Unisal	Ok
+2020-03-11 18:10:10.996254	Riquelmi	Saí
+2020-03-11 18:10:11.050221	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:11.119179	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:11.172146	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:11.224114	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:11.313196	Diego Unisal	
+2020-03-11 18:10:11.402148	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:11.469099	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:11.522066	Naty Unisal	Ok
+2020-03-11 18:10:11.575034	Riquelmi	Saí
+2020-03-11 18:10:11.631000	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:11.692962	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:11.747927	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:11.799895	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:11.905842	Diego Unisal	
+2020-03-11 18:10:11.991801	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:12.050751	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:12.102719	Naty Unisal	Ok
+2020-03-11 18:10:12.154687	Riquelmi	Saí
+2020-03-11 18:10:12.206655	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:12.260621	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:12.312589	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:12.364557	+55 19 98409-9750	TV reiniciada com sucesso! ass: Athena
+2020-03-11 18:10:12.454502	Diego Unisal	
+2020-03-11 18:10:12.542447	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:12.605408	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:12.667371	Naty Unisal	Ok
+2020-03-11 18:10:12.789295	Riquelmi	Saí
+2020-03-11 18:10:12.841263	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:12.894230	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:12.950196	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:13.004164	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:13.097105	Diego Unisal	
+2020-03-11 18:10:13.184057	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:13.244063	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:13.306195	Naty Unisal	Ok
+2020-03-11 18:10:13.359163	Riquelmi	Saí
+2020-03-11 18:10:13.414128	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:13.500076	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:13.551044	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:13.603012	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:13.689966	Diego Unisal	
+2020-03-11 18:10:13.787942	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:13.847898	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:13.899866	Naty Unisal	Ok
+2020-03-11 18:10:13.950834	Riquelmi	Saí
+2020-03-11 18:10:14.002802	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:14.057768	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:14.108736	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:14.160705	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:14.263652	Diego Unisal	
+2020-03-11 18:10:14.351818	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:14.410780	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:14.463748	Naty Unisal	Ok
+2020-03-11 18:10:14.518713	Riquelmi	Saí
+2020-03-11 18:10:14.571681	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:14.625694	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:14.696642	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:14.767598	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:14.874534	Diego Unisal	
+2020-03-11 18:10:14.969473	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:15.047426	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:15.100393	Naty Unisal	Ok
+2020-03-11 18:10:15.152360	Riquelmi	Saí
+2020-03-11 18:10:15.205327	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:15.262293	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:15.316259	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:15.370234	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:15.469165	Diego Unisal	
+2020-03-11 18:10:15.562107	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:15.622106	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:15.677072	Naty Unisal	Ok
+2020-03-11 18:10:15.729086	Riquelmi	Saí
+2020-03-11 18:10:15.783053	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:15.843050	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:15.902014	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:15.954982	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:16.047925	Diego Unisal	
+2020-03-11 18:10:16.135870	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:16.196832	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:16.252797	Naty Unisal	Ok
+2020-03-11 18:10:16.311761	Riquelmi	Saí
+2020-03-11 18:10:16.365736	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:16.420694	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:16.476658	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:16.532637	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:16.641557	Diego Unisal	
+2020-03-11 18:10:16.729509	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:16.800459	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:16.873415	Naty Unisal	Ok
+2020-03-11 18:10:16.937375	Riquelmi	Saí
+2020-03-11 18:10:16.995338	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:17.053311	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:17.107270	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:17.160236	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:17.254223	Diego Unisal	
+2020-03-11 18:10:17.358490	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:17.447434	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:17.509396	Naty Unisal	Ok
+2020-03-11 18:10:17.578354	Riquelmi	Saí
+2020-03-11 18:10:17.634319	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:17.688286	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:17.742253	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:17.793221	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:17.889201	Diego Unisal	
+2020-03-11 18:10:17.980084	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:18.041472	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:18.103972	Naty Unisal	Ok
+2020-03-11 18:10:18.157357	Riquelmi	Saí
+2020-03-11 18:10:18.227804	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:18.274679	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:18.327065	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:18.373938	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:18.474199	Diego Unisal	
+2020-03-11 18:10:18.558834	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:18.627845	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:18.674717	Naty Unisal	Ok
+2020-03-11 18:10:18.728103	Riquelmi	Saí
+2020-03-11 18:10:18.774977	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:18.828365	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:18.890863	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:18.944251	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:19.053894	Diego Unisal	
+2020-03-11 18:10:19.144531	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:19.207028	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:19.260413	Naty Unisal	Ok
+2020-03-11 18:10:19.313796	Riquelmi	Saí
+2020-03-11 18:10:19.360676	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:19.414055	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:19.476560	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:19.529945	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:19.614575	Diego Unisal	
+2020-03-11 18:10:19.714834	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:19.786248	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:19.846383	Naty Unisal	Ok
+2020-03-11 18:10:19.893257	Riquelmi	Saí
+2020-03-11 18:10:19.946644	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:19.993517	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:20.046902	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:20.109401	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:20.209661	Diego Unisal	
+2020-03-11 18:10:20.294296	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:20.347681	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:20.410180	Naty Unisal	Ok
+2020-03-11 18:10:20.463566	Riquelmi	Saí
+2020-03-11 18:10:20.516946	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:20.594922	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:20.648312	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:20.695185	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:20.779819	Diego Unisal	
+2020-03-11 18:10:20.880078	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:20.933465	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:20.995962	Naty Unisal	Ok
+2020-03-11 18:10:21.049350	Riquelmi	Saí
+2020-03-11 18:10:21.096224	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:21.149608	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:21.212107	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:21.265492	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:21.368792	Diego Unisal	
+2020-03-11 18:10:21.466052	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:10:21.519434	Thiago	Esse programa aí faz oq?
+2020-03-11 18:10:21.566313	Naty Unisal	Ok
+2020-03-11 18:10:21.619693	Riquelmi	Saí
+2020-03-11 18:10:21.682196	Odair Unisal	Som da sala 11?
+2020-03-11 18:10:21.735583	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:10:21.798080	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:10:21.851470	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:10:21.936731	Diego Unisal	
+2020-03-11 18:10:22.035913	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:11:33.761818	Diego Unisal	
+2020-03-11 18:12:34.016045	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:12:54.148107	Thiago	Esse programa aí faz oq?
+2020-03-11 18:13:04.262603	Naty Unisal	Ok
+2020-03-11 18:13:14.390851	Riquelmi	Saí
+2020-03-11 18:13:24.498254	Odair Unisal	Som da sala 11?
+2020-03-11 18:13:34.615765	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:13:44.720466	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:13:54.833812	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:14:55.058620	Diego Unisal	
+2020-03-11 18:15:55.243389	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:16:15.374789	Thiago	Esse programa aí faz oq?
+2020-03-11 18:16:25.481103	Naty Unisal	Ok
+2020-03-11 18:16:35.576216	Riquelmi	Saí
+2020-03-11 18:16:45.690678	Odair Unisal	Vc conseguiu ajeitar o som da sala 11?
+2020-03-11 18:16:55.800318	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:17:05.900044	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:17:15.997005	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:18:16.192665	Diego Unisal	
+2020-03-11 18:19:16.395275	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:19:36.506306	Thiago	Esse programa aí faz oq?
+2020-03-11 18:19:46.603656	Naty Unisal	Ok
+2020-03-11 18:19:56.712442	Riquelmi	Saí
+2020-03-11 18:20:06.821949	Odair Unisal	Vc conseguiu ajeitar o som da sala 11?
+2020-03-11 18:20:16.928566	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:20:27.033230	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:20:37.129092	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:21:37.319518	Diego Unisal	
+2020-03-11 18:22:37.497763	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:22:57.640854	Thiago	Esse programa aí faz oq?
+2020-03-11 18:23:07.753591	Naty Unisal	Ok
+2020-03-11 18:23:17.866247	Riquelmi	Saí
+2020-03-11 18:23:27.963140	Odair Unisal	Vc conseguiu ajeitar o som da sala 11?
+2020-03-11 18:23:38.052871	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:23:48.165028	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:23:58.269676	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:24:58.459978	Diego Unisal	
+2020-03-11 18:25:58.658532	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:26:18.754002	Thiago	Calcula o IMC e guarda em txt Kkkk
+2020-03-11 18:26:28.860515	Naty Unisal	Ok
+2020-03-11 18:26:38.958145	Riquelmi	Saí
+2020-03-11 18:26:49.028132	Odair Unisal	Vc conseguiu ajeitar o som da sala 11?
+2020-03-11 18:26:59.123911	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:27:09.182199	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:27:19.272989	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:28:19.457259	Diego Unisal	
+2020-03-11 18:29:19.652615	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:29:39.737682	Thiago	Basic
+2020-03-11 18:29:49.837219	Naty Unisal	Ok
+2020-03-11 18:29:59.942064	Riquelmi	Saí
+2020-03-11 18:30:10.040930	Odair Unisal	Vamos pensar
+2020-03-11 18:30:20.144437	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:30:30.235028	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:30:40.347445	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:31:40.545308	Diego Unisal	
+2020-03-11 18:32:40.730316	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:33:00.855810	Thiago	Basic
+2020-03-11 18:33:10.968870	Naty Unisal	Ok
+2020-03-11 18:33:21.059538	Riquelmi	Saí
+2020-03-11 18:33:31.172491	Odair Unisal	Vc lembra?
+2020-03-11 18:33:41.284730	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:33:51.410519	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:34:01.523291	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:35:01.745700	Diego Unisal	
+2020-03-11 18:36:01.919774	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:36:22.027010	Thiago	Basic
+2020-03-11 18:36:32.138636	Naty Unisal	Ok
+2020-03-11 18:36:42.243790	Riquelmi	Saí
+2020-03-11 18:36:52.355440	Odair Unisal	Vc lembra?
+2020-03-11 18:37:02.451624	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:37:12.547422	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:37:22.643594	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 18:38:22.807075	Diego Unisal	
+2020-03-11 18:39:22.959224	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 18:39:43.099896	Thiago	Basic
+2020-03-11 18:39:53.199425	Naty Unisal	Ok
+2020-03-11 18:40:03.295583	Riquelmi	Saí
+2020-03-11 18:40:13.424852	Odair Unisal	Negativo, amanhã nas primeiras aulas
+2020-03-11 18:40:23.529862	+55 12 99145-1015	O que teve na prova?
+2020-03-11 18:40:33.660094	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 18:40:43.757670	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:05:58.626881	Diego Unisal	
+2020-03-11 19:06:48.829005	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:07:09.000793	Naty Unisal	Ok
+2020-03-11 19:07:19.099074	Riquelmi	Saí
+2020-03-11 19:07:29.213684	+55 12 99145-1015	Scrum
+2020-03-11 19:07:39.327152	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:07:49.463490	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:08:09.596752	Thiago	Basic
+2020-03-11 19:08:19.717434	Odair Unisal	eu vi que atras do computador tem um cabo P2 -> RCA
+2020-03-11 19:09:19.866032	Diego Unisal	
+2020-03-11 19:19:43.150111	Diego Unisal	
+2020-03-11 19:20:33.860110	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:20:54.202148	Naty Unisal	Ok
+2020-03-11 19:21:04.407546	Riquelmi	Saí
+2020-03-11 19:21:14.637278	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:21:24.836019	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:21:45.169200	Thiago	Basic
+2020-03-11 19:21:55.388283	Odair Unisal	eu vi que atras do computador tem um cabo P2 -> RCA
+2020-03-11 19:22:05.594124	+55 12 99145-1015	ela vai ficar dps que o JN chegar?
+2020-03-11 19:23:06.455905	Diego Unisal	
+2020-03-11 19:23:57.165134	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:24:17.491707	Naty Unisal	Ok
+2020-03-11 19:24:27.704298	Riquelmi	Saí
+2020-03-11 19:24:37.910965	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:24:48.115663	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:25:08.449752	Thiago	Basic
+2020-03-11 19:25:18.655168	Odair Unisal	eu vi que atras do computador tem um cabo P2 -> RCA
+2020-03-11 19:25:28.868680	+55 12 99145-1015	Só que apareceu essa oportunidade
+2020-03-11 19:26:29.701662	Diego Unisal	
+2020-03-11 19:27:20.370795	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:27:40.678002	Naty Unisal	Ok
+2020-03-11 19:27:50.838803	Riquelmi	Saí
+2020-03-11 19:28:01.037509	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:28:11.240629	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:28:31.549261	Thiago	Basic
+2020-03-11 19:28:41.823174	Odair Unisal	
+2020-03-11 19:28:52.042523	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:29:52.815326	Diego Unisal	
+2020-03-11 19:30:43.483824	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:31:03.796109	Naty Unisal	Ok
+2020-03-11 19:31:13.998513	Riquelmi	Saí
+2020-03-11 19:31:24.208064	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:31:34.406779	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:31:54.717497	Thiago	Basic
+2020-03-11 19:32:04.955620	Odair Unisal	
+2020-03-11 19:32:15.158402	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:33:15.973357	Diego Unisal	
+2020-03-11 19:34:06.648982	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:34:26.957115	Naty Unisal	Ok
+2020-03-11 19:34:37.141099	Riquelmi	Saí
+2020-03-11 19:34:47.336924	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:34:57.529777	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:35:17.835840	Thiago	Basic
+2020-03-11 19:35:28.050254	Odair Unisal	
+2020-03-11 19:35:38.244596	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:36:39.015191	Diego Unisal	
+2020-03-11 19:37:29.676301	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:37:49.984801	Naty Unisal	Ok
+2020-03-11 19:38:00.192965	Riquelmi	Saí
+2020-03-11 19:38:10.387262	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:38:20.578687	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:38:40.883538	Thiago	Basic
+2020-03-11 19:38:51.071264	Odair Unisal	
+2020-03-11 19:39:01.271347	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:40:02.073720	Diego Unisal	
+2020-03-11 19:40:52.747399	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:41:13.059369	Naty Unisal	Ok
+2020-03-11 19:41:23.248271	Riquelmi	Saí
+2020-03-11 19:41:33.444447	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:41:43.646853	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:42:03.957022	Thiago	Basic
+2020-03-11 19:42:14.192502	Odair Unisal	
+2020-03-11 19:42:24.393930	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:43:25.164357	Diego Unisal	
+2020-03-11 19:44:15.822677	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:44:36.137475	Naty Unisal	Ok
+2020-03-11 19:44:46.345654	Riquelmi	Saí
+2020-03-11 19:44:56.537687	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:45:06.735555	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:45:27.046249	Thiago	Basic
+2020-03-11 19:45:37.268240	Odair Unisal	
+2020-03-11 19:45:47.466903	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:46:48.258149	Diego Unisal	
+2020-03-11 19:47:38.916777	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:47:59.219846	Naty Unisal	Ok
+2020-03-11 19:48:09.413229	Riquelmi	Saí
+2020-03-11 19:48:19.612498	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:48:29.803077	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:48:50.102670	Thiago	Basic
+2020-03-11 19:49:00.312224	Odair Unisal	
+2020-03-11 19:49:10.480656	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:50:11.256613	Diego Unisal	
+2020-03-11 19:51:01.921002	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:51:22.235674	Naty Unisal	Ok
+2020-03-11 19:51:32.398516	Riquelmi	Saí
+2020-03-11 19:51:42.585217	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:51:52.778746	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:52:13.077880	Thiago	Basic
+2020-03-11 19:52:23.291257	Odair Unisal	
+2020-03-11 19:52:33.489889	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:53:34.264773	Diego Unisal	
+2020-03-11 19:54:24.918794	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:54:45.225369	Naty Unisal	Ok
+2020-03-11 19:54:55.424006	Riquelmi	Saí
+2020-03-11 19:55:05.633038	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:55:15.830247	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:55:36.142762	Thiago	Basic
+2020-03-11 19:55:46.378761	Odair Unisal	
+2020-03-11 19:55:56.574810	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 19:56:57.349700	Diego Unisal	
+2020-03-11 19:57:48.006985	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 19:58:08.334800	Naty Unisal	Ok
+2020-03-11 19:58:18.523799	Riquelmi	Saí
+2020-03-11 19:58:28.719520	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 19:58:38.921725	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 19:58:59.233964	Thiago	Basic
+2020-03-11 19:59:09.471711	Odair Unisal	
+2020-03-11 19:59:19.664176	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:00:20.439883	Diego Unisal	
+2020-03-11 20:01:11.100585	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:01:31.400708	Naty Unisal	Ok
+2020-03-11 20:01:41.599968	Riquelmi	Saí
+2020-03-11 20:01:51.790217	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:02:01.982531	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:02:22.297865	Thiago	Basic
+2020-03-11 20:02:32.513234	Odair Unisal	
+2020-03-11 20:02:42.699110	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:03:43.516358	Diego Unisal	
+2020-03-11 20:04:34.176290	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:04:54.488550	Naty Unisal	Ok
+2020-03-11 20:05:04.700435	Riquelmi	Saí
+2020-03-11 20:05:14.899895	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:05:25.085965	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:05:45.391716	Thiago	Basic
+2020-03-11 20:05:55.604649	Odair Unisal	
+2020-03-11 20:06:05.804539	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:07:06.599437	Diego Unisal	
+2020-03-11 20:07:57.263505	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:08:17.577236	Naty Unisal	Ok
+2020-03-11 20:08:27.781053	Riquelmi	Saí
+2020-03-11 20:08:37.974771	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:08:48.168657	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:09:08.479834	Thiago	Basic
+2020-03-11 20:09:18.688925	Odair Unisal	
+2020-03-11 20:09:28.886552	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:10:29.682847	Diego Unisal	
+2020-03-11 20:11:20.351621	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:11:40.662802	Naty Unisal	Ok
+2020-03-11 20:11:50.843093	Riquelmi	Saí
+2020-03-11 20:12:01.035575	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:12:11.227306	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:12:31.553461	Thiago	Basic
+2020-03-11 20:12:41.785833	Odair Unisal	
+2020-03-11 20:12:51.989278	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:13:52.772643	Diego Unisal	
+2020-03-11 20:14:43.438395	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:15:03.757182	Naty Unisal	Ok
+2020-03-11 20:15:13.963600	Riquelmi	Saí
+2020-03-11 20:15:24.169883	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:15:34.372599	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:15:54.684758	Thiago	Basic
+2020-03-11 20:16:04.915921	Odair Unisal	
+2020-03-11 20:16:15.117412	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:17:15.896907	Diego Unisal	
+2020-03-11 20:18:06.543784	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:18:26.849043	Naty Unisal	Ok
+2020-03-11 20:18:37.040976	Riquelmi	Saí
+2020-03-11 20:18:47.235562	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:18:57.434920	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:19:17.732001	Thiago	Basic
+2020-03-11 20:19:27.952827	Odair Unisal	
+2020-03-11 20:19:38.139979	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:20:38.914278	Diego Unisal	
+2020-03-11 20:21:29.570778	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:21:49.868252	Naty Unisal	Ok
+2020-03-11 20:22:00.053997	Riquelmi	Saí
+2020-03-11 20:22:10.244321	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:22:20.441840	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:22:40.753075	Thiago	Basic
+2020-03-11 20:22:50.938365	Odair Unisal	
+2020-03-11 20:23:01.133317	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:24:01.934188	Diego Unisal	
+2020-03-11 20:24:52.594769	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:25:12.907253	Naty Unisal	Ok
+2020-03-11 20:25:23.095407	Riquelmi	Saí
+2020-03-11 20:25:33.286611	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:25:43.473221	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:26:03.785536	Thiago	Basic
+2020-03-11 20:26:13.993271	Odair Unisal	
+2020-03-11 20:26:24.192170	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:27:24.995708	Diego Unisal	
+2020-03-11 20:28:15.636551	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:28:35.950935	Naty Unisal	Ok
+2020-03-11 20:28:46.155060	Riquelmi	Saí
+2020-03-11 20:28:56.351180	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:29:06.535247	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:29:26.841623	Thiago	Basic
+2020-03-11 20:29:37.056654	Odair Unisal	
+2020-03-11 20:29:47.257931	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:30:48.037948	Diego Unisal	
+2020-03-11 20:31:38.687141	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:31:58.995671	Naty Unisal	Ok
+2020-03-11 20:32:09.191428	Riquelmi	Saí
+2020-03-11 20:32:19.395495	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:32:29.590889	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:32:49.900535	Thiago	Basic
+2020-03-11 20:33:00.121724	Odair Unisal	
+2020-03-11 20:33:10.313205	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:34:11.086720	Diego Unisal	
+2020-03-11 20:35:01.749999	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:35:22.057676	Naty Unisal	Ok
+2020-03-11 20:35:32.248896	Riquelmi	Saí
+2020-03-11 20:35:42.440065	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:35:52.623570	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:36:12.932648	Thiago	Basic
+2020-03-11 20:36:23.168308	Odair Unisal	
+2020-03-11 20:36:33.368233	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:37:34.139497	Diego Unisal	
+2020-03-11 20:38:24.799626	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:38:45.112308	Naty Unisal	Ok
+2020-03-11 20:38:55.308538	Riquelmi	Saí
+2020-03-11 20:39:05.508189	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:39:15.689939	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:39:36.003242	Thiago	Basic
+2020-03-11 20:39:46.212747	Odair Unisal	
+2020-03-11 20:39:56.402337	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:40:57.188592	Diego Unisal	
+2020-03-11 20:41:47.840542	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:42:08.156254	Naty Unisal	Ok
+2020-03-11 20:42:18.352224	Riquelmi	Saí
+2020-03-11 20:42:28.551791	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:42:38.734999	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:42:59.045365	Thiago	Basic
+2020-03-11 20:43:09.252556	Odair Unisal	
+2020-03-11 20:43:19.440669	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:44:20.232455	Diego Unisal	
+2020-03-11 20:45:10.895973	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:45:31.194708	Naty Unisal	Ok
+2020-03-11 20:45:41.390044	Riquelmi	Saí
+2020-03-11 20:45:51.589280	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:46:01.772064	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:46:22.074465	Thiago	Basic
+2020-03-11 20:46:32.285107	Odair Unisal	
+2020-03-11 20:46:42.483078	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:47:43.273543	Diego Unisal	
+2020-03-11 20:48:33.942379	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:48:54.263796	Naty Unisal	Ok
+2020-03-11 20:49:04.472441	Riquelmi	Saí
+2020-03-11 20:49:14.657636	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:49:24.852626	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:49:45.177200	Thiago	Basic
+2020-03-11 20:49:55.412494	Odair Unisal	
+2020-03-11 20:50:05.609351	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:51:06.413026	Diego Unisal	
+2020-03-11 20:51:57.081865	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:52:17.402093	Naty Unisal	Ok
+2020-03-11 20:52:27.609163	Riquelmi	Saí
+2020-03-11 20:52:37.794392	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:52:47.991098	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:53:08.314831	Thiago	Basic
+2020-03-11 20:53:18.562777	Odair Unisal	
+2020-03-11 20:53:28.765216	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:54:29.534425	Diego Unisal	
+2020-03-11 20:55:20.178132	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:55:40.480826	Naty Unisal	Ok
+2020-03-11 20:55:50.664238	Riquelmi	Saí
+2020-03-11 20:56:00.864363	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:56:11.049690	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:56:31.355936	Thiago	Basic
+2020-03-11 20:56:41.565002	Odair Unisal	
+2020-03-11 20:56:51.757402	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 20:57:52.526740	Diego Unisal	
+2020-03-11 20:58:43.204912	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 20:59:03.518712	Naty Unisal	Ok
+2020-03-11 20:59:13.717848	Riquelmi	Saí
+2020-03-11 20:59:23.918477	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 20:59:34.101571	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 20:59:54.401167	Thiago	Basic
+2020-03-11 21:00:04.607409	Odair Unisal	
+2020-03-11 21:00:14.799965	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:01:15.593957	Diego Unisal	
+2020-03-11 21:02:06.247434	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:02:26.552914	Naty Unisal	Ok
+2020-03-11 21:02:36.745371	Riquelmi	Saí
+2020-03-11 21:02:46.934836	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:02:57.125421	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:03:17.420641	Thiago	Basic
+2020-03-11 21:03:27.636759	Odair Unisal	
+2020-03-11 21:03:37.832447	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:04:38.635290	Diego Unisal	
+2020-03-11 21:05:29.297256	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:05:49.598894	Naty Unisal	Ok
+2020-03-11 21:05:59.794469	Riquelmi	Saí
+2020-03-11 21:06:09.996512	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:06:20.197069	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:06:40.500227	Thiago	Basic
+2020-03-11 21:06:50.713790	Odair Unisal	
+2020-03-11 21:07:00.911127	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:08:01.722428	Diego Unisal	
+2020-03-11 21:08:52.398908	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:09:12.706920	Naty Unisal	Ok
+2020-03-11 21:09:22.900603	Riquelmi	Saí
+2020-03-11 21:09:33.097972	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:09:43.286674	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:10:03.590010	Thiago	Basic
+2020-03-11 21:10:13.799839	Odair Unisal	
+2020-03-11 21:10:23.983769	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:11:24.766004	Diego Unisal	
+2020-03-11 21:12:15.428515	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:12:35.741073	Naty Unisal	Ok
+2020-03-11 21:12:45.939101	Riquelmi	Saí
+2020-03-11 21:12:56.137000	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:13:06.329092	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:13:26.622944	Thiago	Basic
+2020-03-11 21:13:36.834810	Odair Unisal	
+2020-03-11 21:13:47.032802	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:14:47.801460	Diego Unisal	
+2020-03-11 21:15:38.458713	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:15:58.781261	Naty Unisal	Ok
+2020-03-11 21:16:08.987073	Riquelmi	Saí
+2020-03-11 21:16:19.185803	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:16:29.390648	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:16:49.695542	Thiago	Basic
+2020-03-11 21:16:59.918647	Odair Unisal	
+2020-03-11 21:17:10.113947	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:18:10.910569	Diego Unisal	
+2020-03-11 21:19:01.577067	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:19:21.882323	Naty Unisal	Ok
+2020-03-11 21:19:32.088691	Riquelmi	Saí
+2020-03-11 21:19:42.284211	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:19:52.475504	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:20:12.786310	Thiago	Basic
+2020-03-11 21:20:23.022201	Odair Unisal	
+2020-03-11 21:20:33.226529	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:21:34.008374	Diego Unisal	
+2020-03-11 21:22:24.658684	Rato Medio	Caso voce continue vivo porfavor faca novamente ;D
+2020-03-11 21:22:44.964622	Naty Unisal	Ok
+2020-03-11 21:22:55.159809	Riquelmi	Saí
+2020-03-11 21:23:05.345621	Teste Twilio	You said :..  Configure your WhatsApp Sandbox's Inbound URL to change this message.
+2020-03-11 21:23:15.525106	+55 19 98409-9750	eu cancelei para não atrapalhar ai mas funcionou
+2020-03-11 21:23:35.831126	Thiago	Basic
+2020-03-11 21:23:46.045374	Odair Unisal	
+2020-03-11 21:23:56.230744	+55 12 99145-1015	Chamada escolar por reconhecimento facial
+2020-03-11 21:24:57.004084	Diego Unisal	
+2020-03-12 18:15:12.548844	Thiago	Até maiis
+2020-03-12 18:15:22.764313	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:15:53.214112	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:16:03.446965	Naty Unisal	Blz, vlw nath
+2020-03-12 18:16:13.681913	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:16:34.029800	Letícia	Blzz
+2020-03-12 18:17:34.858094	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:18:35.685170	Thiago	Até maiis
+2020-03-12 18:18:45.882436	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:19:16.323665	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:19:26.539209	Naty Unisal	Blz, vlw nath
+2020-03-12 18:19:36.743185	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:19:57.063164	Letícia	Blzz
+2020-03-12 18:20:57.858284	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:21:58.638910	Thiago	Até maiis
+2020-03-12 18:22:08.836931	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:22:39.263125	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:22:49.476400	Naty Unisal	Blz, vlw nath
+2020-03-12 18:22:59.686527	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:23:20.000744	Letícia	Blzz
+2020-03-12 18:24:20.793042	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:25:21.571283	Thiago	Até maiis
+2020-03-12 18:25:31.779287	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:26:02.207238	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:26:12.423205	Naty Unisal	Blz, vlw nath
+2020-03-12 18:26:22.635086	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:26:42.965312	Letícia	Blzz
+2020-03-12 18:27:43.767439	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:28:44.582457	Thiago	Até maiis
+2020-03-12 18:28:54.779143	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:29:25.221273	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:29:35.430255	Naty Unisal	Blz, vlw nath
+2020-03-12 18:29:45.645588	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:30:05.972395	Letícia	Blzz
+2020-03-12 18:31:06.786077	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:32:07.573329	Thiago	Até maiis
+2020-03-12 18:32:17.774698	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:32:48.215280	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:32:58.416774	Naty Unisal	Blz, vlw nath
+2020-03-12 18:33:08.613555	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:33:28.939320	Letícia	Blzz
+2020-03-12 18:34:29.719415	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:35:30.501618	Thiago	Até maiis
+2020-03-12 18:35:40.711218	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:36:11.157181	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:36:21.351550	Naty Unisal	Blz, vlw nath
+2020-03-12 18:36:31.561007	Isa	Se fosse ano passado seria umas das 2 maiores
+2020-03-12 18:36:51.873228	Letícia	Blzz
+2020-03-12 18:37:52.668212	Odair Unisal	Ele assinou o termo de responsabilidade?
+2020-03-12 18:38:53.445471	Thiago	Até maiis
+2020-03-12 18:39:03.639939	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:39:13.819892	Michel	Vc sabe informar se eu levar o filamento da impressora 3D eu posso usar ela para fazer algumas peças?
+2020-03-12 18:39:44.246258	Riquelmi	Realmente seria muito interessante mano
+2020-03-12 18:39:54.456468	Naty Unisal	Blz, vlw nath

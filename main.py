@@ -2,17 +2,20 @@ from selenium import webdriver
 import pyautogui
 import time
 from datetime import datetime
-from twilio.rest import Client
 sistemaAntiBug = 0
 
-datetime.now()
+def desligarLab1():
+    print("Desligando Lab1")
+    pyautogui.FAILSAFE = False
+
+    print("Completado com sucesso!!")
 
 
 def reiniciarTV():
     pyautogui.FAILSAFE = False
 
     senha = "master"
-    ip = "10.40.102.23"
+    ip = "10.40.22.240"
 
     pyautogui.click(x=1365, y=767, duration=0.5)
     pyautogui.click(x=0, y=767, duration=0.5)
@@ -42,38 +45,43 @@ def reiniciarTV():
     pyautogui.click(x=642, y=720, duration=0.5)
     pyautogui.click(x=642, y=720, duration=0.5)
 
+    pyautogui.click(x=584, y=622, duration=0.5)
+    pyautogui.click(x=594, y=548, duration=0.5)
+    pyautogui.hotkey('alt', 'f4')
+    pyautogui.hotkey('alt', 'f4')
+
 
 def enviarMensagem():
+    rotation = True
     sistemaAntiBug = 0
     runs = 0
 
-    personNamePosition = ["//*[@id='pane-side']/div[1]/div/div/div[17]/div/div/div[2]/div[1]/div[1]/span/span",
-                          "//*[@id='pane-side']/div[1]/div/div/div[16]/div/div/div[2]/div[1]/div[1]/span/span",
-                          "//*[@id='pane-side']/div[1]/div/div/div[15]/div/div/div[2]/div[1]/div[1]/span/span",
-                          "//*[@id='pane-side']/div[1]/div/div/div[2]/div/div/div[2]/div[1]/div[1]/span/span",
-                          "//*[@id='pane-side']/div[1]/div/div/div[1]/div/div/div[2]/div[1]/div[1]/span/span"]
-    PersonMessagePosition = ["//*[@id='pane-side']/div[1]/div/div/div[17]/div/div/div[2]/div[2]/div[1]/span/span",
-                             "//*[@id='pane-side']/div[1]/div/div/div[16]/div/div/div[2]/div[2]/div[1]/span/span",
-                             "//*[@id='pane-side']/div[1]/div/div/div[15]/div/div/div[2]/div[2]/div[1]/span/span",
-                             "//*[@id='pane-side']/div[1]/div/div/div[2]/div/div/div[2]/div[2]/div[1]/span/span",
-                             "//*[@id='pane-side']/div[1]/div/div/div[1]/div/div/div[2]/div[2]/div[1]/span/span"]
+    personNamePosition = []
+    PersonMessagePosition = []
+
+    for i in range(20):
+        personNamePosition.append(
+            "//*[@id='pane-side']/div[1]/div/div/div[{0}]/div/div/div[2]/div[1]/div[1]/span/span".format(i))
+
+        PersonMessagePosition.append(
+            "//*[@id='pane-side']/div[1]/div/div/div[{0}]/div/div/div[2]/div[2]/div[1]/span/span".format(i))
 
     driver = webdriver.Chrome()
     driver.get('http://web.whatsapp.com')
 
-    msg = "Bomba Lancada com Sucesso! \n Caso voce continue vivo porfavor faca novamente ;D"
+    msg = "TV reiniciada com sucesso!"
     input('Enter anything after scanning QR code')
 
     while sistemaAntiBug < 3:
-        for i in range(5):
+        for i in range(len(personNamePosition)):
             try:
                 user = driver.find_element_by_xpath(
                     personNamePosition[i])
                 texto = driver.find_element_by_xpath(
                     PersonMessagePosition[i])
-                if "AUTODESTRUICAO" in texto.text:
+                if "REINICIAR TV - CENTRAL DE ATENDIMENTO" in texto.text:
                     print("A pessoa e: "+user.text+"\t"+texto.text)
-                    print("/n/n Executar AUTODESTRUICAO!")
+                    print("/n/n Executar REINICIO!")
                     # reiniciarTV()
                     user = driver.find_element_by_xpath(
                         '//span[@title = "{}"]'.format(user.text))
@@ -89,19 +97,31 @@ def enviarMensagem():
                     print("Derrubando Laboratoirio 1")
                 elif "QUERO DERRUBAR O LAB 2" in texto.text and user.text == "Odair Unisal":
                     print("Derrubando Laboratoirio 2")
-                data = str(datetime.now())
-                with open("relatorio.txt", "a", encoding="utf-8") as f:
-                    for i in range(3):
-                        f.write(data+"\t"+user.text+"\t"+texto.text+"\n")
-                    f.close()
+
                 runs += 1
                 if runs % 5 == 0:
+                    data = str(datetime.now())
+                    with open("{0}.txt".format(datetime.now().date), "a", encoding="utf-8") as f:
+                        f.write(data+"\t"+user.text+"\t"+texto.text+"\n")
+                        f.close()
                     sistemaAntiBug = 0
-                print("AntiBug:"+str(sistemaAntiBug))
+                    print("AntiBug:"+str(sistemaAntiBug))
             except:
                 pass
             finally:
-                time.sleep(20)
+                if rotation:
+                    pyautogui.move(None, 3)
+                    rotation = False
+                else:
+                    pyautogui.move(None, -3)
+                    rotation = True
 
 
-enviarMensagem()
+# enviarMensagem()
+# desligarLab1()
+def downloadVideosYoutube():
+    driver = webdriver.Chrome()
+    driver.get('https://www.youtube.com/channel/UCb87w2HwzMiTSWJpgQgXJFQ/videos')
+
+    input('Enter anything after scanning QR code')
+downloadVideosYoutube()
