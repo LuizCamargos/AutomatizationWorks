@@ -4,6 +4,7 @@ import time
 from datetime import datetime
 sistemaAntiBug = 0
 
+
 def desligarLab1():
     print("Desligando Lab1")
     pyautogui.FAILSAFE = False
@@ -62,11 +63,10 @@ def enviarMensagem():
     for i in range(20):
         personNamePosition.append(
             "//*[@id='pane-side']/div[1]/div/div/div[{0}]/div/div/div[2]/div[1]/div[1]/span/span".format(i))
-
         PersonMessagePosition.append(
             "//*[@id='pane-side']/div[1]/div/div/div[{0}]/div/div/div[2]/div[2]/div[1]/span/span".format(i))
 
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(port=61879)
     driver.get('http://web.whatsapp.com')
 
     msg = "TV reiniciada com sucesso!"
@@ -82,10 +82,10 @@ def enviarMensagem():
                 if "REINICIAR TV - CENTRAL DE ATENDIMENTO" in texto.text:
                     print("A pessoa e: "+user.text+"\t"+texto.text)
                     print("/n/n Executar REINICIO!")
-                    # reiniciarTV()
-                    user = driver.find_element_by_xpath(
+                    reiniciarTV()
+                    userText = driver.find_element_by_xpath(
                         '//span[@title = "{}"]'.format(user.text))
-                    user.click()
+                    userText.click()
                     msg_box = driver.find_element_by_xpath(
                         "//*[@id='main']/footer/div[1]/div[2]/div/div[2]")
                     msg_box.send_keys(msg)
@@ -93,13 +93,13 @@ def enviarMensagem():
                         "//*[@id='main']/footer/div[1]/div[3]/button/span")
                     button.click()
                     sistemaAntiBug += 1
-                elif "QUERO DERRUBAR O LAB 1" in texto.text and user.text == "Odair Unisal":
+                if "DERRUBAR LAB 1" in texto.text and user.text == "Odair Unisal":
                     print("Derrubando Laboratoirio 1")
-                elif "QUERO DERRUBAR O LAB 2" in texto.text and user.text == "Odair Unisal":
+                if "DERRUBAR LAB 2" in texto.text and user.text == "Odair Unisal":
                     print("Derrubando Laboratoirio 2")
 
                 runs += 1
-                if runs % 5 == 0:
+                if runs % 10 == 0:
                     data = str(datetime.now())
                     with open("{0}.txt".format(datetime.now().date), "a", encoding="utf-8") as f:
                         f.write(data+"\t"+user.text+"\t"+texto.text+"\n")
@@ -109,6 +109,7 @@ def enviarMensagem():
             except:
                 pass
             finally:
+                time.sleep(10)
                 if rotation:
                     pyautogui.move(None, 3)
                     rotation = False
@@ -117,11 +118,44 @@ def enviarMensagem():
                     rotation = True
 
 
-# enviarMensagem()
+enviarMensagem()
 # desligarLab1()
-def downloadVideosYoutube():
-    driver = webdriver.Chrome()
-    driver.get('https://www.youtube.com/channel/UCb87w2HwzMiTSWJpgQgXJFQ/videos')
 
-    input('Enter anything after scanning QR code')
-downloadVideosYoutube()
+"""
+CARTA SENHA AUTOMATICA
+
+ if "CARTA SENHA 123456:" in texto.text:
+                    print("Enviando Carta Senha")
+                    driver.find_element_by_tag_name(
+                        'body')
+                    driver.execute_script(
+                        '''window.open("http://senha.liceu.com.br","_self");''')
+                    time.sleep(10)
+                    campoRA = driver.find_element_by_id("ra")
+                    campoRA.click()
+                    pyautogui.typewrite("170001118", interval=.1)
+                    time.sleep(2)
+                    nomeRA = driver.find_element_by_xpath(
+                        "//*[@id='dadosAluno']/span[1]")
+                    botao = driver.find_element_by_xpath(
+                        "//*[@id='fichaInscricao']/fieldset/div[1]/div[2]/button")
+                    botao.click()
+                    pastaArquivo = "C:\\Users\\luiz.camargos\\Downloads\\{0}.pdf".format(
+                        nomeRA.text)
+                    driver.execute_script(
+                        '''window.open("http://web.whatsapp.com","_self");''')
+                    time.sleep(10)
+                    userText = driver.find_element_by_xpath(
+                        '//span[@title = "{}"]'.format(user.text))
+                    userText.click()
+                    print("clicado no Nome")
+                    botao = driver.find_element_by_xpath(
+                        "//*[@id='main']/header/div[3]/div/div[2]/div/span")
+                    botao.click()
+                    botao = driver.find_element_by_xpath(
+                        "//*[@id='main']/header/div[3]/div/div[2]/span/div/div/ul/li[3]/button")
+                    botao.click()
+                    time.sleep(.5)
+                    pyautogui.typewrite(pastaArquivo)
+                    pyautogui.press("enter")
+"""
