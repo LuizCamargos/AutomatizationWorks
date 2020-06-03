@@ -12,4 +12,5 @@ with open(pasta+"ArquivosKARAOKE.txt", "w", encoding="utf-8") as f:
         lista.append(arquivo)
         i += 1
     f.close()
+
 print()
