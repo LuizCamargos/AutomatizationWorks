@@ -1,31 +1,55 @@
 import pyautogui
-# from datetime import datetime
 import time
-from random import randint
+import random
+import os
 
-listaPergunta=[
-'Um Sonho de Liberdade(1994)',
-'O Poderoso Chefão(1972)',
-'O Poderoso Chefão II(1974)',
-'Batman: O Cavaleiro das Trevas(2008)',
-'A Lista de Schindler(1993)',
-'12 Homens e uma Sentença(1957)',
-'Pulp Fiction: Tempo de Violência(1994)',
-'O Senhor dos Anéis: O Retorno do Rei(2003)',
-'Três Homens em Conflito(1966)',
-'Clube da Luta(1999)'
-]
 
-time.sleep(3)
-pergunta = listaPergunta[randint(0,len(listaPergunta))]
-# pyautogui.write(pergunta, interval=.1)
-# pyautogui.press(['enter'])
-pyautogui.hotkey(['ctrl', 'e'],interval=.1)
+def startUp(lines):
+    # timer to start
+    time.sleep(3)
+    # write line
+    random.shuffle(lines)
+    return lines
 
-print(pergunta)
 
-#pegar ponteiro
-# pyautogui.moveTo(x=100, y=100, duration=3,tween=(pyautogui.easeInOutQuad) )
+def readLines():
+    # Open Local File
+    cwd = os.getcwd()
+    f = open(cwd+'/2023/data.txt', 'r')
+    # read Lines from file
+    lines = f.readlines()
+    return lines
+
+
+def keyboardPress(line, i):
+    pyautogui.write(line, interval=.125)
+    pyautogui.press(['tab']*2, interval=2)
+    time.sleep(1)
+    pyautogui.press(['enter'])
+    time.sleep(2)
+    pyautogui.hotkey(['down', 'down', 'down'], interval=.3)
+    time.sleep(2)
+    print(i)
+
+
+def keyboardHotKey(keys):
+    pyautogui.hotkey(keys, interval=.1)
+
+
+def moveMousePosition(x, y):
+    pyautogui.moveTo(x=x, y=y, duration=3, tween=(pyautogui.easeInOutQuad))
+
+
+lines = readLines()
+lines = startUp(lines)
+
+for line in lines:
+    keyboardPress(line, lines.index(line))
+    keyboardHotKey(['ctrl', 'e'])
+    moveMousePosition(random.randint(300, 1000), random.randint(300, 1000))
+
+
+###############################################################################
 
 # Get time
 # time = datetime.now().time()
