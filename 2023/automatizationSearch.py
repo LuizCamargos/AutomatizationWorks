@@ -46,7 +46,7 @@ def autoCompleteSearch(text):
     response = requests.get(
         'http://google.com/complete/search?client=chrome&q='+text, headers=headers)
     question = json.loads(response.text)[1]
-    question = question[random.randint(0, len(json.loads(response.text)[1])-1)]
+    question = question[random.randint(0, len(json.loads(response.text)[1]))]
     return question
 
 
@@ -54,15 +54,19 @@ lines = readLines()
 lines = startUp(lines)
 i = 0
 for line in lines:
-    line = line.rstrip()
-    keyboardHotKey(['ctrl', 'e'])
-    question = autoCompleteSearch(line)
-    keyboardPress(question)
-    # moveMousePosition(random.randint(300, 1000), random.randint(300, 1000))
-    if i == 30:
-        keyboardHotKey(['f12'])
-    else:
-        ++i
+    try:
+        line = line.rstrip()
+        keyboardHotKey(['ctrl', 'e'])
+        question = autoCompleteSearch(line)
+        keyboardPress(question)
+        i+=1
+        print(i)
+        # moveMousePosition(random.randint(300, 1000), random.randint(300, 1000))
+        if i == 30:
+            keyboardHotKey(['f12'])
+     
+    except:
+        pass
 
 
 ###############################################################################
