@@ -52,19 +52,22 @@ def autoCompleteSearch(text):
 
 lines = readLines()
 lines = startUp(lines)
-i = 0
+count = qtd = 0
 for line in lines:
+    qtd += 1
     try:
         line = line.rstrip()
         keyboardHotKey(['ctrl', 'e'])
         question = autoCompleteSearch(line)
         keyboardPress(question)
-        i+=1
-        print(i)
+        count += 1
+        print(count)
         # moveMousePosition(random.randint(300, 1000), random.randint(300, 1000))
-        if i == 30:
+        if count == 30:
             keyboardHotKey(['f12'])
-     
+        if count == 60:
+            print("Finish: {}/{}".format(qtd, count))
+            break
     except:
         pass
 
