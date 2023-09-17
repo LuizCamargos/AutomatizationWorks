@@ -57,16 +57,15 @@ for line in lines:
     qtd += 1
     try:
         line = line.rstrip()
-        keyboardHotKey(['ctrl', 'e'])
         question = autoCompleteSearch(line)
+        print("{}. {}".format(count, question))
+        keyboardHotKey(['ctrl', 'e'])
         keyboardPress(question)
         count += 1
-        print(count)
-        # moveMousePosition(random.randint(300, 1000), random.randint(300, 1000))
-        if count == 30:
+        if count == 35:
             keyboardHotKey(['f12'])
-        if count == 60:
-            print("Finish: {}/{}".format(qtd, count))
+        if count == 70:
+            print("Finish: {}/{}".format(count, qtd))
             break
     except:
         pass
